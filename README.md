@@ -1,10 +1,10 @@
 # Redshift Data Sharing Demo
 
-<img width="85" alt="map-user" src="https://img.shields.io/badge/views-0000-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-0000-green">
+<img width="85" alt="map-user" src="https://img.shields.io/badge/views-062-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-0000-green">
 
 This repository has example SQL code to
 
-1. Create a table + add a few rows of data to it 
+1. Create a table + add a few rows of data to it
 2. Create a data share
 3. Share the data share with a consumer (ie. different) Redshift instance
 4. Consumer the data share from the producer Redshift instance
