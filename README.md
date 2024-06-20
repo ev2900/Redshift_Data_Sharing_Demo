@@ -1,6 +1,6 @@
 # Redshift Data Sharing Demo
 
-<img width="85" alt="map-user" src="https://img.shields.io/badge/views-089-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-022-green">
+<img width="85" alt="map-user" src="https://img.shields.io/badge/views-093-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-022-green">
 
 This repository has example SQL code to
 
